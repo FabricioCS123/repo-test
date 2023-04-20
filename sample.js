@@ -1,3 +1,1 @@
-console.log("hello world")
-
-git init
+console.log("hello world !!!")
